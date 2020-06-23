@@ -1,0 +1,1 @@
+This is a mini project for Odin in microverse. I will learn how to install, configure and learn git command.
